@@ -1,3 +1,6 @@
+# News App for latest trends in the world of Technology and StartUps
+Here I used "Techcrunch" API to fetch the news build using ReactJs and Javascript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
